@@ -8,11 +8,15 @@ An intelligent, end-to-end recruitment screening and career advising platform. I
 
 - **Document Parser**: Ingests PDF and DOCX documents to extract clean textual content.
 - **Section Segmentation**: Gracefully splits resumes into Contact Info, Education, Experience, Projects, and Certifications.
-- **Skill Extractor**: Matches terms against a custom dictionary of 150+ skills using regex word boundaries to avoid false positives (e.g. distinguishing "C" from "Cloud").
+- **Skill Extractor**: Matches terms against a custom dictionary of 150+ skills using regex word boundaries to avoid false positives.
 - **Hybrid Matching Engine**: Scores profiles using a weighted average of TF-IDF Cosine Similarity and Set-based Skill Overlaps.
 - **Dynamic Learning Roadmap**: Identifies missing skills and compiles a weekly learning schedule with direct links to official documentation, GitHub repositories, Coursera, Udemy, and YouTube.
 - **AI Career Counselor**: Generates tailored ATS improvement plans, resume summaries, and simulated technical & behavioral interview questions using Google Gemini.
-- **Streamlit Dashboard**: A modern web interface with glassmorphic visuals, interactive Plotly metrics, and instant PDF/PowerPoint report compilers.
+- **AI Cover Letter Generator**: Instantly drafts highly personalized, ATS-friendly cover letters targeted exactly to the job role you want.
+- **Voice Assistant (TTS & STT)**: Includes Text-to-Speech to read out your resume analysis, and Speech-to-Text allowing you to practice mock interview answers using your microphone!
+- **Advanced Visual Analytics**: Features interactive Plotly Radar Charts mapping your skill distribution across various domains.
+- **ATS Readability Score**: Analyzes word density and text length to predict whether an automated Applicant Tracking System will parse or reject your resume.
+- **Streamlit Dashboard**: A modern web interface with glassmorphic visuals and instant PDF/PowerPoint report compilers.
 
 ---
 
@@ -27,6 +31,7 @@ AI_Resume_Analyzer/
 │── job_matcher.py          # TF-IDF & Cosine Similarity match engine
 │── roadmap_generator.py    # Study timeline compiler
 │── report_generator.py     # PDF & Slide document compiler
+│── voice_utils.py          # Voice synthesis (TTS/STT)
 │── config.py               # Settings and themes
 │── utils.py                # Gemini integration & mock fallbacks
 │── requirements.txt        # Package dependencies
@@ -53,8 +58,8 @@ AI_Resume_Analyzer/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/AI_Resume_Analyzer.git
-   cd AI_Resume_Analyzer
+   git clone https://github.com/your-username/ai-resume-analyzer.git
+   cd ai-resume-analyzer
    ```
 
 2. **Install requirements**:
@@ -65,32 +70,21 @@ AI_Resume_Analyzer/
    ```
 
 3. **Configure Environment Variables**:
-   Copy `.env.example` to `.env`:
-   ```bash
-   copy .env.example .env
-   ```
-   Provide your **Gemini API Key** in the `.env` file:
+   Create a `.env` file in the root directory and provide your **Gemini API Key**:
    ```env
    GEMINI_API_KEY=your_actual_api_key_here
    ```
-   *(If no API key is provided, the application will automatically activate standard simulated mock advisor profiles so that all features remain functional).*
 
 ---
 
 ## 💻 How to Run
 
-1. **Generate Sample Resumes & Reports**:
-   Run the sample generation utility to populate the test directory:
+1. **Start the Dashboard**:
    ```bash
-   python generate_samples.py
+   python -m streamlit run app.py
    ```
 
-2. **Start the Dashboard**:
-   ```bash
-   streamlit run app.py
-   ```
-
-3. **Run Unit Tests**:
+2. **Run Unit Tests**:
    Ensure all core NLP systems pass:
    ```bash
    python -m unittest tests/test_cases.py
@@ -123,4 +117,4 @@ The program compiles a professional **15-slide PowerPoint deck** containing:
 
 ## 📄 License
 
-Distributed under the MIT License. See [LICENSE](file:///c:/Users/Skandhan%20M%20U/OneDrive/Desktop/AI_resume_analyzer/LICENSE) for more information.
+Distributed under the MIT License.
