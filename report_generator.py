@@ -386,13 +386,19 @@ class PDFReportGenerator:
             [Paragraph("<b>Objective</b>", self.body_bold_style), 
              Paragraph("Build an automated screen system extracting skills, matching resumes, and preparing personalized roadmaps.", self.body_style)],
             [Paragraph("<b>Technologies</b>", self.body_bold_style), 
-             Paragraph("Python, Streamlit, NLP (spaCy), TF-IDF, Cosine Similarity, PyPDF, ReportLab, python-docx, Gemini API.", self.body_style)],
+             Paragraph("Python, Streamlit, NLP (spaCy), TF-IDF, Cosine Similarity, PyPDF, gTTS, SpeechRecognition, ReportLab, python-docx, Gemini API.", self.body_style)],
             [Paragraph("<b>Dataset Used</b>", self.body_bold_style), 
              Paragraph("Custom 150+ Skill Dictionary & Predefined Job Profile specs (job_roles.csv).", self.body_style)],
             [Paragraph("<b>System Workflow</b>", self.body_bold_style), 
              Paragraph("1. Resume Parsing -> 2. Text Cleaning -> 3. NLP Skill Extraction -> 4. TF-IDF Similarity -> 5. Missing Skill Analysis -> 6. Dashboard Visualization.", self.body_style)],
             [Paragraph("<b>Key Results</b>", self.body_bold_style), 
              Paragraph("Parsed PDFs and DOCX files accurately, extracted target categories, matched jobs with high correlation, and produced interactive visual roadmaps.", self.body_style)],
+            [Paragraph("<b>Core Features</b>", self.body_bold_style), 
+             Paragraph("TF-IDF Resume Matching, AI Cover Letter Generator, TTS/STT Voice Assistant, ATS Readability Scoring, Interactive Roadmaps.", self.body_style)],
+            [Paragraph("<b>GitHub Repository</b>", self.body_bold_style), 
+             Paragraph("<a href='https://github.com/skandhanmu128-max/AI_resume_analyzer' color='blue'>github.com/skandhanmu128-max/AI_resume_analyzer</a>", self.body_style)],
+            [Paragraph("<b>Live Demo (Deployed)</b>", self.body_bold_style), 
+             Paragraph("<a href='https://airesumeanalyzer-mpnubdztguatgju33uzqc8.streamlit.app/' color='blue'>airesumeanalyzer-mpnubdztguatgju33uzqc8.streamlit.app/</a>", self.body_style)],
             [Paragraph("<b>Conclusion</b>", self.body_bold_style), 
              Paragraph("Automated analysis eliminates recruitment overhead while providing candidates with actionable roadmaps for upskilling.", self.body_style)]
         ]
@@ -451,7 +457,8 @@ class PresentationGenerator:
                     "Extract technical competencies from a dictionary of 150+ skills.",
                     "Build a hybrid recommendation engine utilizing TF-IDF and Cosine Similarity.",
                     "Generate automatic multi-week learning roadmaps for missing requirements.",
-                    "Integrate Google Gemini for career advisor features."
+                    "Generate highly personalized, ATS-friendly cover letters.",
+                    "Integrate Google Gemini and Voice (TTS/STT) for interactive career advising."
                 ]
             },
             {
@@ -473,7 +480,7 @@ class PresentationGenerator:
                     "Data Structures: Pandas, NumPy",
                     "NLP: spaCy (en_core_web_sm), Regex engines",
                     "Vectorization & Similarity: Scikit-learn (TF-IDF, Cosine Similarity)",
-                    "GenAI Advisor: Google Gemini-1.5-flash API",
+                    "GenAI & Voice: Google Gemini API, gTTS, SpeechRecognition",
                     "Report Modules: ReportLab & python-pptx"
                 ]
             },
