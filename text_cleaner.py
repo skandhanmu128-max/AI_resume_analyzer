@@ -7,13 +7,8 @@ from config import SPACY_MODEL
 try:
     nlp = spacy.load(SPACY_MODEL)
 except OSError:
-    try:
-        import spacy.cli
-        spacy.cli.download(SPACY_MODEL)
-        nlp = spacy.load(SPACY_MODEL)
-    except Exception:
-        # Minimal fallback in case spaCy or internet connection fails during test
-        nlp = None
+    print(f"Warning: Failed to load spaCy model. Falling back to basic tokenization.")
+    nlp = None
 
 def clean_text_basic(text: str) -> str:
     """

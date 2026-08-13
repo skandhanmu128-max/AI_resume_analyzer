@@ -14,3 +14,4 @@ python-pptx>=0.6.21
 pytest>=7.4.0
 gTTS==2.5.1
 streamlit-mic-recorder>=0.0.4
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
