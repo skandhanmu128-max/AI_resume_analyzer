@@ -1,5 +1,7 @@
 # AI Resume Analyzer and Job Recommendation System using NLP
 
+**Live Demo:** [Try the Application Here!](https://airesumeanalyzer-mpnubdztguatgju33uzqc8.streamlit.app/)
+
 An intelligent, end-to-end recruitment screening and career advising platform. It extracts structured info from PDF and DOCX CVs, matches them against multiple job roles using TF-IDF text mining and skill set-overlaps, builds multi-week learning roadmaps for missing competencies, and acts as an AI Career Advisor powered by Google Gemini.
 
 ---
