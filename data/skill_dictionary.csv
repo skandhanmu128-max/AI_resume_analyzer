@@ -1,0 +1,781 @@
+Skill,Category
+Python,Programming
+Java,Programming
+C++,Programming
+C,Programming
+C#,Programming
+Go,Programming
+Rust,Programming
+JavaScript,Programming
+TypeScript,Programming
+Ruby,Programming
+PHP,Programming
+Swift,Programming
+Kotlin,Programming
+Scala,Programming
+R,Programming
+HTML,Web
+CSS,Web
+React,Web
+Angular,Web
+Vue,Web
+Svelte,Web
+Next.js,Web
+Django,Web
+FastAPI,Web
+Flask,Web
+Node.js,Web
+Express,Web
+ASP.NET,Web
+Spring Boot,Web
+Artificial Intelligence,AI
+Deep Learning,AI
+Machine Learning,AI
+Natural Language Processing,AI
+Computer Vision,AI
+Reinforcement Learning,AI
+Generative AI,AI
+Large Language Models,AI
+LLMs,AI
+Transformers,AI
+Neural Networks,AI
+Speech Recognition,AI
+Robotics,AI
+Supervised Learning,ML
+Unsupervised Learning,ML
+Regression,ML
+Classification,ML
+Clustering,ML
+Random Forest,ML
+XGBoost,ML
+Support Vector Machines,ML
+SVM,ML
+K-Means,ML
+Decision Trees,ML
+Gradient Boosting,ML
+CNN,DL
+RNN,DL
+LSTM,DL
+GAN,DL
+PyTorch,DL
+TensorFlow,DL
+Keras,DL
+JAX,DL
+Hugging Face,DL
+AWS,Cloud
+Azure,Cloud
+GCP,Cloud
+Cloud Computing,Cloud
+Serverless,Cloud
+Lambda,Cloud
+EC2,Cloud
+S3,Cloud
+IAM,Cloud
+Kubernetes,Cloud
+Docker,Cloud
+SQL,Database
+MySQL,Database
+PostgreSQL,Database
+SQLite,Database
+MongoDB,Database
+Redis,Database
+Cassandra,Database
+DynamoDB,Database
+Oracle,Database
+SQL Server,Database
+Neo4j,Database
+CI/CD,DevOps
+Git,DevOps
+GitHub Actions,DevOps
+Jenkins,DevOps
+Ansible,DevOps
+Terraform,DevOps
+Prometheus,DevOps
+Grafana,DevOps
+Linux,Operating Systems
+Windows,Operating Systems
+macOS,Operating Systems
+Ubuntu,Operating Systems
+Debian,Operating Systems
+CentOS,Operating Systems
+Unix,Operating Systems
+VS Code,Tools
+Jupyter Notebook,Tools
+Postman,Tools
+Jira,Tools
+Confluence,Tools
+Docker Desktop,Tools
+Tableau,Tools
+PowerBI,Tools
+NumPy,Libraries
+Pandas,Libraries
+Scikit-learn,Libraries
+SciPy,Libraries
+Matplotlib,Libraries
+Seaborn,Libraries
+SpaCy,Libraries
+NLTK,Libraries
+OpenCV,Libraries
+Beautiful Soup,Libraries
+Selenium,Libraries
+Communication,Soft Skills
+Teamwork,Soft Skills
+Leadership,Soft Skills
+Problem Solving,Soft Skills
+Critical Thinking,Soft Skills
+Time Management,Soft Skills
+Adaptability,Soft Skills
+Collaboration,Soft Skills
+Presentation,Soft Skills
+Creativity,Soft Skills
+Active Listening,Soft Skills
+Negotiation,Soft Skills
+Conflict Resolution,Soft Skills
+Public Speaking,Soft Skills
+Work Ethic,Soft Skills
+Interpersonal Skills,Soft Skills
+Emotional Intelligence,Soft Skills
+Decision Making,Soft Skills
+Customer Service,Soft Skills
+Project Management,Soft Skills
+Agile,Soft Skills
+Scrum,Soft Skills
+GitLab,DevOps
+Apache Spark,Libraries
+Hadoop,Tools
+PySpark,Libraries
+Flask-RESTful,Frameworks
+Redux,Frameworks
+Bootstrap,Web
+Tailwind CSS,Web
+Sass,Web
+GraphQL,Web
+REST API,Web
+gRPC,Web
+Microservices,Web
+Docker Compose,DevOps
+Helm,DevOps
+Bitbucket,DevOps
+Webpack,Tools
+Babel,Tools
+Vite,Tools
+Nginx,Tools
+Apache,Tools
+Firebase,Cloud
+Heroku,Cloud
+Linux Shell Scripting,Operating Systems
+Bash,Operating Systems
+Powershell,Operating Systems
+Logstash,Tools
+Elasticsearch,Tools
+Kibana,Tools
+MLflow,Tools
+DVC,Tools
+Weights & Biases,Tools
+Airflow,Tools
+Kafka,Tools
+RabbitMQ,Tools
+Figma,Tools
+Adobe XD,Tools
+Unity,Tools
+Unreal Engine,Tools
+TensorRT,Libraries
+ONNX,Libraries
+CUDA,Libraries
+OpenCL,Libraries
+Nvidia Rapids,Libraries
+Dask,Libraries
+Ray,Libraries
+JAX,Libraries
+Fastai,Libraries
+Gensim,Libraries
+TextBlob,Libraries
+Spacy,Libraries
+Pattern,Libraries
+Scrapy,Libraries
+Plotly,Libraries
+Bokeh,Libraries
+Altair,Libraries
+Statsmodels,Libraries
+SQLAlchemy,Libraries
+Pydantic,Libraries
+Celery,Libraries
+Redis Queue,Libraries
+BeautifulSoup,Libraries
+lxml,Libraries
+Requests,Libraries
+Aiohttp,Libraries
+Tornado,Libraries
+WebSockets,Web
+YAML,Tools
+JSON,Tools
+XML,Tools
+Markdown,Tools
+LaTeX,Tools
+Linux Administration,Operating Systems
+System Administration,Operating Systems
+Shell Scripting,Operating Systems
+Powershell Scripting,Operating Systems
+Cmd,Operating Systems
+Network Security,Tools
+Cybersecurity,Tools
+Cryptography,Tools
+OAuth,Tools
+JWT,Tools
+Auth0,Tools
+Active Directory,Tools
+VMware,Tools
+VirtualBox,Tools
+Vagrant,Tools
+Proxmox,Tools
+Wireshark,Tools
+Nmap,Tools
+Metasploit,Tools
+Snort,Tools
+OWASP,Tools
+Penetration Testing,Tools
+Ethical Hacking,Tools
+Computer Networks,Tools
+TCP/IP,Tools
+DNS,Tools
+DHCP,Tools
+HTTP,Tools
+SSH,Tools
+FTP,Tools
+SMTP,Tools
+SSL/TLS,Tools
+Firewalls,Tools
+Load Balancers,Tools
+CDN,Tools
+Route 53,Cloud
+CloudFront,Cloud
+Cloudflare,Cloud
+Akamai,Cloud
+Fastly,Cloud
+DigitalOcean,Cloud
+Linode,Cloud
+Vultr,Cloud
+OpenStack,Cloud
+CloudStack,Cloud
+EKS,Cloud
+AKS,Cloud
+GKE,Cloud
+Fargate,Cloud
+ECS,Cloud
+SQS,Cloud
+SNS,Cloud
+RDS,Cloud
+DynamoDB,Cloud
+Redshift,Cloud
+BigQuery,Cloud
+Cloud Spanner,Cloud
+Cloud SQL,Cloud
+Cosmos DB,Cloud
+Blob Storage,Cloud
+Google Cloud Storage,Cloud
+S3 Bucket,Cloud
+Azure Files,Cloud
+EFS,Cloud
+Glacier,Cloud
+Kinesis,Cloud
+CloudWatch,Cloud
+CloudTrail,Cloud
+Stackdriver,Cloud
+AppDynamics,Tools
+Dynatrace,Tools
+Datadog,Tools
+Splunk,Tools
+New Relic,Tools
+Loggly,Tools
+Graylog,Tools
+Fluentd,Tools
+Logstash,DevOps
+Elasticsearch,DevOps
+Kibana,DevOps
+ELK Stack,DevOps
+EFK Stack,DevOps
+Grafana Loki,DevOps
+Jaeger,DevOps
+Zipkin,DevOps
+OpenTelemetry,DevOps
+Sentry,DevOps
+Rollbar,DevOps
+PagerDuty,DevOps
+Opsgenie,DevOps
+VictorOps,DevOps
+Slack Integration,DevOps
+Microsoft Teams Integration,DevOps
+PagerDuty Integration,DevOps
+Webhooks,DevOps
+CircleCI,DevOps
+Travis CI,DevOps
+GitLab CI,DevOps
+Bamboo,DevOps
+TeamCity,DevOps
+GitHub Actions CI,DevOps
+Bitbucket Pipelines,DevOps
+Azure DevOps,DevOps
+AWS CodePipeline,DevOps
+Google Cloud Build,DevOps
+ArgoCD,DevOps
+FluxCD,DevOps
+Spinnaker,DevOps
+Rancher,DevOps
+OpenShift,DevOps
+Tanzu,DevOps
+Minikube,DevOps
+Kind,DevOps
+K3s,DevOps
+MicroK8s,DevOps
+Docker Swarm,DevOps
+Nomad,DevOps
+Consul,DevOps
+Vault,DevOps
+Boundary,DevOps
+Waypoint,DevOps
+Terraform Cloud,DevOps
+Pulumi,DevOps
+Serverless Framework,DevOps
+SAM,DevOps
+CloudFormation,DevOps
+ARM Templates,DevOps
+Bicep,DevOps
+Ansible Tower,DevOps
+AWX,DevOps
+Chef,DevOps
+Puppet,DevOps
+SaltStack,DevOps
+Fabric,DevOps
+Capistrano,DevOps
+Packer,DevOps
+Vagrant Cloud,DevOps
+VirtualBox VM,DevOps
+KVM,DevOps
+QEMU,DevOps
+Libvirt,DevOps
+Xen,DevOps
+Hyper-V,DevOps
+ESXi,DevOps
+vSphere,DevOps
+vCenter,DevOps
+vSAN,DevOps
+NSX,DevOps
+SDN,DevOps
+NFV,DevOps
+OpenFlow,DevOps
+Mininet,DevOps
+Netplan,DevOps
+Systemd,DevOps
+Init.d,DevOps
+Upstart,DevOps
+SysVinit,DevOps
+Crontab,DevOps
+Cron,DevOps
+Anacron,DevOps
+Systemd Timers,DevOps
+Logrotate,DevOps
+Journald,DevOps
+Rsyslog,DevOps
+Syslog-ng,DevOps
+Auditd,DevOps
+SELinux,DevOps
+AppArmor,DevOps
+PAM,DevOps
+Sudo,DevOps
+Chroot,DevOps
+LXC,DevOps
+LXD,DevOps
+Cgroups,DevOps
+Namespaces,DevOps
+OverlayFS,DevOps
+Aufs,DevOps
+Btrfs,DevOps
+ZFS,DevOps
+LVM,DevOps
+RAID,DevOps
+mdadm,DevOps
+Fstab,DevOps
+Mount,DevOps
+Udev,DevOps
+D-Bus,DevOps
+Polkit,DevOps
+X11,DevOps
+Wayland,DevOps
+GDM,DevOps
+LightDM,DevOps
+SDDM,DevOps
+GNOME,DevOps
+KDE,DevOps
+XFCE,DevOps
+LXDE,DevOps
+MATE,DevOps
+Cinnamon,DevOps
+i3wm,DevOps
+Sway,DevOps
+AwesomeWM,DevOps
+Openbox,DevOps
+Fluxbox,DevOps
+FVWM,DevOps
+WindowMaker,DevOps
+AfterStep,DevOps
+Blackbox,DevOps
+IceWM,DevOps
+Enlightenment,DevOps
+Compiz,DevOps
+KWin,DevOps
+Mutter,DevOps
+xfwm4,DevOps
+Marco,DevOps
+Muffin,DevOps
+Metacity,DevOps
+Flavors,DevOps
+Distros,DevOps
+RedHat,DevOps
+CentOS Stream,DevOps
+Rocky Linux,DevOps
+AlmaLinux,DevOps
+Fedora,DevOps
+RHEL,DevOps
+SUSE,DevOps
+openSUSE,DevOps
+SLES,DevOps
+Arch Linux,DevOps
+Manjaro,DevOps
+EndeavourOS,DevOps
+Garuda Linux,DevOps
+Gentoo,DevOps
+Sabayon,DevOps
+Calculate Linux,DevOps
+Funtoo,DevOps
+Slackware,DevOps
+Salix,DevOps
+Zenwalk,DevOps
+VectorLinux,DevOps
+Alpine Linux,DevOps
+Void Linux,DevOps
+Solus,DevOps
+Clear Linux,DevOps
+NixOS,DevOps
+Guix,DevOps
+FreeBSD,DevOps
+OpenBSD,DevOps
+NetBSD,DevOps
+DragonFly BSD,DevOps
+Solaris,DevOps
+OpenIndiana,DevOps
+OmniOS,DevOps
+SmartOS,DevOps
+AIX,DevOps
+HP-UX,DevOps
+z/OS,DevOps
+z/VM,DevOps
+z/VSE,DevOps
+OS/390,DevOps
+MVS,DevOps
+VM/CMS,DevOps
+VMS,DevOps
+OpenVMS,DevOps
+NonStop,DevOps
+OS/400,DevOps
+i5/OS,DevOps
+IBM i,DevOps
+OS/2,DevOps
+eComStation,DevOps
+ArcaOS,DevOps
+AmigaOS,DevOps
+MorphOS,DevOps
+AROS,DevOps
+Haiku,DevOps
+BeOS,DevOps
+Syllable,DevOps
+ReactOS,DevOps
+FreeDOS,DevOps
+MS-DOS,DevOps
+DR-DOS,DevOps
+PC-DOS,DevOps
+Novell DOS,DevOps
+OpenDOS,DevOps
+PTS-DOS,DevOps
+ROM-DOS,DevOps
+Embedded Linux,DevOps
+Android,DevOps
+LineageOS,DevOps
+Tizen,DevOps
+webOS,DevOps
+Sailfish OS,DevOps
+Ubuntu Touch,DevOps
+PostmarketOS,DevOps
+KaiOS,DevOps
+iOS,DevOps
+iPadOS,DevOps
+watchOS,DevOps
+tvOS,DevOps
+macOS Server,DevOps
+Windows Server,DevOps
+Windows Client,DevOps
+Windows IoT,DevOps
+Windows Embedded,DevOps
+Windows Mobile,DevOps
+Windows Phone,DevOps
+Windows CE,DevOps
+Xbox OS,DevOps
+PlayStation OS,DevOps
+Nintendo OS,DevOps
+Firmware,DevOps
+BIOS,DevOps
+UEFI,DevOps
+Coreboot,DevOps
+Libreboot,DevOps
+U-Boot,DevOps
+Barebox,DevOps
+RedBoot,DevOps
+GRUB,DevOps
+LILO,DevOps
+Syslinux,DevOps
+Systemd-boot,DevOps
+rEFInd,DevOps
+Clover,DevOps
+Chameleon,DevOps
+OpenCore,DevOps
+Multiboot,DevOps
+PXE,DevOps
+iPXE,DevOps
+TFTP,DevOps
+NFS,DevOps
+SMB/CIFS,DevOps
+Samba,DevOps
+Winbind,DevOps
+SSSD,DevOps
+LDAP,DevOps
+OpenLDAP,DevOps
+FreeIPA,DevOps
+Kerberos,DevOps
+PAM LDAP,DevOps
+PAM Kerberos,DevOps
+NSS,DevOps
+NSS LDAP,DevOps
+Active Directory Integration,DevOps
+Realmd,DevOps
+Adcli,DevOps
+Samba AD,DevOps
+NTLM,DevOps
+Kerberos Auth,DevOps
+GSSAPI,DevOps
+SASL,DevOps
+StartTLS,DevOps
+LDAPS,DevOps
+LDAP Admin,DevOps
+Apache Directory Studio,DevOps
+phpLDAPadmin,DevOps
+Webmin,DevOps
+Cockpit,DevOps
+cPanel,DevOps
+Plesk,DevOps
+DirectAdmin,DevOps
+ISPConfig,DevOps
+Virtualmin,DevOps
+Ajenti,DevOps
+Sentora,DevOps
+VestaCP,DevOps
+aapanel,DevOps
+CyberPanel,DevOps
+CloudPanel,DevOps
+RunCloud,DevOps
+ServerPilot,DevOps
+Forge,DevOps
+Ploi,DevOps
+Moss,DevOps
+Cleavr,DevOps
+GridPane,DevOps
+SpinupWP,DevOps
+WordOps,DevOps
+EasyEngine,DevOps
+Centmin Mod,DevOps
+Virtualmin GPL,DevOps
+Webmin GPL,DevOps
+Usermin,DevOps
+Cloudmin,DevOps
+Virtualmin Pro,DevOps
+Webmin Pro,DevOps
+Cloudmin Pro,DevOps
+Virtualmin AWS,DevOps
+Virtualmin GCP,DevOps
+Virtualmin Azure,DevOps
+Virtualmin DO,DevOps
+Virtualmin Linode,DevOps
+Virtualmin Vultr,DevOps
+Virtualmin Lightsail,DevOps
+Virtualmin EC2,DevOps
+Virtualmin S3,DevOps
+Virtualmin RDS,DevOps
+Virtualmin Route53,DevOps
+Virtualmin SES,DevOps
+Virtualmin SNS,DevOps
+Virtualmin SQS,DevOps
+Virtualmin IAM,DevOps
+Virtualmin VPC,DevOps
+Virtualmin CloudWatch,DevOps
+Virtualmin CloudTrail,DevOps
+Virtualmin Config,DevOps
+Virtualmin Setup,DevOps
+Virtualmin Install,DevOps
+Virtualmin Upgrade,DevOps
+Virtualmin Migration,DevOps
+Virtualmin Backup,DevOps
+Virtualmin Restore,DevOps
+Virtualmin Clone,DevOps
+Virtualmin Template,DevOps
+Virtualmin Customization,DevOps
+Virtualmin Plugin,DevOps
+Virtualmin API,DevOps
+Virtualmin CLI,DevOps
+Virtualmin GUI,DevOps
+Virtualmin Theme,DevOps
+Virtualmin Language,DevOps
+Virtualmin Translation,DevOps
+Virtualmin Localization,DevOps
+Virtualmin Support,DevOps
+Virtualmin Forum,DevOps
+Virtualmin Documentation,DevOps
+Virtualmin Wiki,DevOps
+Virtualmin Bug Tracker,DevOps
+Virtualmin Feature Request,DevOps
+Virtualmin Git,DevOps
+Virtualmin SVN,DevOps
+Virtualmin CVS,DevOps
+Virtualmin Mercurial,DevOps
+Virtualmin Bazaar,DevOps
+Virtualmin Darcs,DevOps
+Virtualmin Monotone,DevOps
+Virtualmin Aegis,DevOps
+Virtualmin Fossil,DevOps
+Virtualmin Veracity,DevOps
+Virtualmin PlasticSCM,DevOps
+Virtualmin Perforce,DevOps
+Virtualmin ClearCase,DevOps
+Virtualmin TFS,DevOps
+Virtualmin VSS,DevOps
+Virtualmin SourceSafe,DevOps
+Virtualmin SourceGear,DevOps
+Virtualmin Vault,DevOps
+Virtualmin Fortress,DevOps
+Virtualmin DiffMerge,DevOps
+Virtualmin BeyondCompare,DevOps
+Virtualmin AraxisMerge,DevOps
+Virtualmin KDiff3,DevOps
+Virtualmin Meld,DevOps
+Virtualmin Kompare,DevOps
+Virtualmin P4Merge,DevOps
+Virtualmin WinMerge,DevOps
+Virtualmin TortoiseGit,DevOps
+Virtualmin TortoiseSVN,DevOps
+Virtualmin TortoiseCVS,DevOps
+Virtualmin TortoiseHg,DevOps
+Virtualmin TortoiseBzr,DevOps
+Virtualmin GitExtensions,DevOps
+Virtualmin Sourcetree,DevOps
+Virtualmin GitHubDesktop,DevOps
+Virtualmin GitKraken,DevOps
+Virtualmin SmartGit,DevOps
+Virtualmin Tower,DevOps
+Virtualmin Fork,DevOps
+Virtualmin SublimeMerge,DevOps
+Virtualmin Lazygit,DevOps
+Virtualmin Tig,DevOps
+Virtualmin Gitg,DevOps
+Virtualmin RabbitVCS,DevOps
+Virtualmin Giggle,DevOps
+Virtualmin Cola,DevOps
+Virtualmin Gui,DevOps
+Virtualmin Tk,DevOps
+Virtualmin Tcl,DevOps
+Virtualmin Python,DevOps
+Virtualmin Perl,DevOps
+Virtualmin Ruby,DevOps
+Virtualmin PHP,DevOps
+Virtualmin Java,DevOps
+Virtualmin Node,DevOps
+Virtualmin Go,DevOps
+Virtualmin Rust,DevOps
+Virtualmin C,DevOps
+Virtualmin C++,DevOps
+Virtualmin C#,DevOps
+Virtualmin VB,DevOps
+Virtualmin F#,DevOps
+Virtualmin Swift,DevOps
+Virtualmin Kotlin,DevOps
+Virtualmin Scala,DevOps
+Virtualmin Groovy,DevOps
+Virtualmin Clojure,DevOps
+Virtualmin Haskell,DevOps
+Virtualmin Erlang,DevOps
+Virtualmin Elixir,DevOps
+Virtualmin Lisp,DevOps
+Virtualmin Scheme,DevOps
+Virtualmin ClojureScript,DevOps
+Virtualmin CoffeeScript,DevOps
+Virtualmin TypeScript,DevOps
+Virtualmin JavaScript,DevOps
+Virtualmin HTML5,DevOps
+Virtualmin CSS3,DevOps
+Virtualmin Sass,DevOps
+Virtualmin Less,DevOps
+Virtualmin Stylus,DevOps
+Virtualmin PostCSS,DevOps
+Virtualmin Tailwind,DevOps
+Virtualmin Bootstrap,DevOps
+Virtualmin Foundation,DevOps
+Virtualmin Bulma,DevOps
+Virtualmin Materialize,DevOps
+Virtualmin SemanticUI,DevOps
+Virtualmin UIKit,DevOps
+Virtualmin PureCSS,DevOps
+Virtualmin Milligram,DevOps
+Virtualmin Skeleton,DevOps
+Virtualmin Tachyons,DevOps
+Virtualmin W3CSS,DevOps
+Virtualmin PaperCSS,DevOps
+Virtualmin PicnicCSS,DevOps
+Virtualmin Wing,DevOps
+Virtualmin Baseguide,DevOps
+Virtualmin Mustard,DevOps
+Virtualmin MiniCSS,DevOps
+Virtualmin DeadSimple,DevOps
+Virtualmin Turret,DevOps
+Virtualmin Kube,DevOps
+Virtualmin MetroUI,DevOps
+Virtualmin MaterialDesign,DevOps
+Virtualmin AntDesign,DevOps
+Virtualmin ElementUI,DevOps
+Virtualmin Vuetify,DevOps
+Virtualmin Quasar,DevOps
+Virtualmin BootstrapVue,DevOps
+Virtualmin Buefy,DevOps
+Virtualmin PrimeVue,DevOps
+Virtualmin PrimeReact,DevOps
+Virtualmin PrimeNG,DevOps
+Virtualmin NativeBase,DevOps
+Virtualmin ReactStrap,DevOps
+Virtualmin ReactBootstrap,DevOps
+Virtualmin MaterialUI,DevOps
+Virtualmin SemanticUIReact,DevOps
+Virtualmin Grommet,DevOps
+Virtualmin Rebass,DevOps
+Virtualmin Evergreen,DevOps
+Virtualmin Blueprint,DevOps
+Virtualmin RingUI,DevOps
+Virtualmin Eui,DevOps
+Virtualmin PatternFly,DevOps
+Virtualmin Clarity,DevOps
+Virtualmin Carbon,DevOps
+Virtualmin Spectrum,DevOps
+Virtualmin FluentUI,DevOps
+Virtualmin WinUI,DevOps
+Virtualmin WPF,DevOps
+Virtualmin WindowsForms,DevOps
+Virtualmin Cocoa,DevOps
+Virtualmin AppKit,DevOps
+Virtualmin UIKitApple,DevOps
+Virtualmin WatchKit,DevOps
+Virtualmin TVUIKit,DevOps
+Virtualmin SwiftUI,DevOps
